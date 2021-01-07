@@ -1,6 +1,6 @@
 ///******* In the name of Allah *******///
 # CPCode
-These are all my submissions on Google KickStart(online and offline submission)
+These are all my submissions for online submission(online and offline submission)
 In Sha Allah 
 
 
